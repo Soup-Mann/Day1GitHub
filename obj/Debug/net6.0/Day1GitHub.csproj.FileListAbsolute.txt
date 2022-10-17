@@ -1,0 +1,15 @@
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\bin\Debug\net6.0\Day1GitHub.exe
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\bin\Debug\net6.0\Day1GitHub.deps.json
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\bin\Debug\net6.0\Day1GitHub.runtimeconfig.json
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\bin\Debug\net6.0\Day1GitHub.dll
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\bin\Debug\net6.0\Day1GitHub.pdb
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\obj\Debug\net6.0\Day1GitHub.csproj.AssemblyReference.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\obj\Debug\net6.0\Day1GitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\obj\Debug\net6.0\Day1GitHub.AssemblyInfoInputs.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\obj\Debug\net6.0\Day1GitHub.AssemblyInfo.cs
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\obj\Debug\net6.0\Day1GitHub.csproj.CoreCompileInputs.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\obj\Debug\net6.0\Day1GitHub.dll
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\obj\Debug\net6.0\refint\Day1GitHub.dll
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\obj\Debug\net6.0\Day1GitHub.pdb
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\obj\Debug\net6.0\Day1GitHub.genruntimeconfig.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Day1GitHub\obj\Debug\net6.0\ref\Day1GitHub.dll
